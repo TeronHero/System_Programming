@@ -1,0 +1,8 @@
+﻿# Ignore everything
+*
+
+# But not RAR files
+!*.rar
+
+# And not .gitignore itself
+!.gitignore
